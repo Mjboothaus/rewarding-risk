@@ -1,5 +1,7 @@
+babel
+matplotlib
 pandas
 pandas_datareader
-yfinance
-matplotlib
+requests_cache
 scipy
+yfinance
